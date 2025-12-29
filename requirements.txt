@@ -1,0 +1,7 @@
+pip install pywhatkit
+pip install keyboard
+pip install pyautogui
+pip install imaplib
+pip install email
+
+
