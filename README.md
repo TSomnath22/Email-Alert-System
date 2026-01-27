@@ -20,7 +20,6 @@
 
 
 *Problem Definition:*
-
 To ease the process of email handling through interactive multi-thread to read the emails 
 from the Gmail host and send the notifications on WhatsApp with meta metadata of the emails 
 using decision making technic. 
