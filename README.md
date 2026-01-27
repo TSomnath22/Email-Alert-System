@@ -3,8 +3,7 @@
 • Processor : Core i5 
 • RAM       : 8 GB 
 • HDD        : 500 GB 
-
-*Software Interfaces:* 
+2.Software Interfaces:
 • Coding Languages : Python 
 • Development Kit    : Python SDk 
 • Front End                : Tkinter 
